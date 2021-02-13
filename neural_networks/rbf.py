@@ -35,7 +35,9 @@ class CL:
 				self.C[minimal] += learning_rate * (point - self.C[minimal])
 
 class RBF(CL):
-
+	"""
+	Radial Basis Function network
+	"""
 	def __init__(self, hidden_units = 10, variance = 0.5):
 		self.W = None #Weights
 		self.centers = None 
