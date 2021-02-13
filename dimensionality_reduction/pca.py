@@ -32,7 +32,7 @@ class PCA:
 		:param X: Patterns. Data points are represented by columns and attributres by rows.
 		:param dim: Dimensions of the representation
 		"""
-		Npts, Ndim = X.shape
+		Ndim, Npts = X.shape
 
 		if dim > Ndim:
 			print("Your request is asking for larger dimensions than the original data. Adjust the dimension in your request.")
