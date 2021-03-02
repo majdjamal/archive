@@ -9,12 +9,13 @@ This repository is my machine learning toolbox. It contains models that I have c
 * MDS.py – Multidimensional Scaling
 * PCA.py – Principal Component Analysis
 
-### Neural Networks, 
+### Neural Networks,
 
 * Hopfield.py – Hopfield Network
 * RBF.py – Radial Basis Function Network
 * RBM.py – Restricted Boltzmann Machine
-* SLP.py – Single Layer Perceptron 
+* SLP.py – Single Layer Perceptron
 
-### Machine Learning, 
-* SVM.py – Support Vector Machine 
+### Machine Learning,
+* SVM.py – Support Vector Machine
+* ransac.py - Random Sample Consensus
