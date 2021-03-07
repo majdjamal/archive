@@ -15,6 +15,7 @@ This repository is my machine learning toolbox. It contains models that I have c
 * RBF.py – Radial Basis Function Network
 * RBM.py – Restricted Boltzmann Machine
 * SLP.py – Single Layer Perceptron
+* MLP.py – Multilayer Perceptron
 
 ### Machine Learning,
 * SVM.py – Support Vector Machine
