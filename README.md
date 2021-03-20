@@ -8,6 +8,7 @@ This repository is my machine learning toolbox. It contains models that I have c
 ### Dimensionality Reduction,
 * MDS.py – Multidimensional Scaling
 * PCA.py – Principal Component Analysis
+* isomap.py - isomap
 
 ### Neural Networks,
 
@@ -20,3 +21,4 @@ This repository is my machine learning toolbox. It contains models that I have c
 ### Machine Learning,
 * SVM.py – Support Vector Machine
 * ransac.py - Random Sample Consensus
+* knn.py - k-Nearest Neighbor
