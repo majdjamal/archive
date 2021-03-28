@@ -21,4 +21,5 @@ This repository is my machine learning toolbox. It contains models that I have c
 ### Machine Learning,
 * SVM.py – Support Vector Machine
 * ransac.py - Random Sample Consensus
-* knn.py - k-Nearest Neighbor
+* knn.py - K-Nearest Neighbor Classifer
+* kmeans.py - K-Means Clustering
